@@ -59,6 +59,7 @@ O conjunto contém aproximadamente 100 mil pedidos realizados entre 2016 e 2018 
 ## 📂 Arquivos
 
 - `Olist_Analytics_Tableau.twbx` — workbook empacotado do Tableau
+- `olist_analytics.sql` — views, validações e consultas SQL da camada Analytics
 - Imagem do dashboard — visualização do resultado final
 - `README.md` — documentação do projeto
 
